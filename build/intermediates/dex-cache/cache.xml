@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ALLDEMO\cutomView\android-custom-view-tutorial-master\android-custom-view-tutorial-master\app\build\intermediates\exploded-aar\android-custom-view-tutorial-master\customviews\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="be15da5c238205d57609ed6cabbee079423b19f7">
+        <dex dex="D:\ALLDEMO\cutomView\android-custom-view-tutorial-master\android-custom-view-tutorial-master\app\build\intermediates\pre-dexed\debug\classes-11007b3eaf4ecc17ecf8b559762c98abdd5730a0.jar" />
+    </item>
+
+</items>
